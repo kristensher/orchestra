@@ -1,6 +1,9 @@
-print('Hello Hello World!');
-Print ('hello?')
+print('Hello Hello World!_____');
+Print ('hello?___')
 Test #2
-print ("notepad++");
+<<<<<<< HEAD
+print ("notepad++_____");
 print ("hello my dear friend!");
 print ("GLad to see you");
+
+>>>>>>> master
